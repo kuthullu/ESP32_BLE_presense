@@ -5,8 +5,9 @@
 #pragma once
 
 #include "esphome/core/component.h"
-#include "esphome/components/mqtt/custom_mqtt_device.h"
-#include "esphome/components/time/real_time_clock.h"
+// #include "esphome/components/mqtt/custom_mqtt_device.h"
+#include "/esphome/esphome/components/mqtt/custom_mqtt_device.h"
+#include "/esphome/esphome/components/time/real_time_clock.h"
 
 namespace ESP32_BLE_Presense {
 
